@@ -6,7 +6,7 @@ import pandas as pd
 
 # Load the pre-trained model
 # Load the model
-model = joblib.load("student/model.pkl")
+model = joblib.load("model.pkl")
 
 
 # Function to preprocess user input
